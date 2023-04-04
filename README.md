@@ -3,7 +3,7 @@ Superhero app with React-Query Feature
 
  Preview:
  
- ![image](https://user-images.githubusercontent.com/15225177/228801590-351cf052-2d2e-4607-82c6-825d7e177bb5.png)
+![image](https://user-images.githubusercontent.com/15225177/229764523-44178b81-3a27-4e6a-909c-878c05f1c3f8.png)
 
 Covered:
 
