@@ -15,3 +15,4 @@ Covered:
 6. QueryClientProvider
 7. QueryClient
 8. axios
+9. UsePaginatedQuery
